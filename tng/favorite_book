@@ -1,0 +1,5 @@
+def favorite_book(the_title):
+	"""print the book title"""
+	print(the_title.title() + " is my favorite book!")
+
+favorite_book('The Prince')
