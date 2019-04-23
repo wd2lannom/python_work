@@ -4,6 +4,7 @@ import pytesseract
 print("***** starting, standdby..... *****")
 
 ## set the target file variable name 4/21/19 ##
+## Mike's Comment ##
 target_file = "/Users/dave/python_work/report.pdf"
 
 def pdf2txt(target_file, num_pages=100):
