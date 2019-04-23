@@ -38,3 +38,8 @@ git commit -m "first commit"
 git remote add origin https://github.com/wd2lannom/test.git
 git push -u origin master
 ```
+
+
+```bash
+git remote add origin https://github.com/wd2lannom/test.git
+git push -u origin master
