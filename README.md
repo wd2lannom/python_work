@@ -28,8 +28,9 @@ git push - push to GitHub
 ```bash
 git push
 ```
+
+create a new repository on the command line###
 ```bash
-###create a new repository on the command line###
 echo "# test" >> README.md
 git init
 git add README.md
