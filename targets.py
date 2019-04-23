@@ -1,7 +1,7 @@
 from pdf2image import convert_from_path
 import pytesseract
 
-print("***** starting, standdby..... *****")
+print("***** starting, standby..... *****")
 
 ## set the target file variable name 4/21/19 ##
 target_file = "/Users/dave/python_work/report.pdf"
