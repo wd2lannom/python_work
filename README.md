@@ -29,7 +29,7 @@ git push - push to GitHub
 git push
 ```
 
-create a new repository on the command line###
+Create a new repository on the command line###
 ```bash
 echo "# test" >> README.md
 git init
@@ -39,7 +39,7 @@ git remote add origin https://github.com/wd2lannom/test.git
 git push -u origin master
 ```
 
-
+Push an existing repository from the command line
 ```bash
 git remote add origin https://github.com/wd2lannom/test.git
 git push -u origin master
