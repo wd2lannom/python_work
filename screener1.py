@@ -1,5 +1,6 @@
-## this the first script used to extract and view text inside a pdf ##
-## this script extracts the requested number of pages and puts it in a file ##
+## this is used to extract and view text inside a pdf ##
+## extracts the requested number of pages and puts it in a file ##
+
 from pdf2image import convert_from_path
 import pytesseract
 
