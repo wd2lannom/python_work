@@ -11,6 +11,7 @@ last_page = int(last_page)
 num_pages = last_page - first_page
 
 print("***** Starting the extraction, standby..... *****")
+print("                                                 ")
 ## set the target file variable name 4/21/19 ##
 ## Mike's Comment ##
 target_file = "/Users/dave/files/report.pdf"
