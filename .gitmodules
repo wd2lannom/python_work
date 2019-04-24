@@ -1,0 +1,3 @@
+[submodule "pdfminer3"]
+	path = pdfminer3
+	url = https://github.com/gwk/pdfminer3.git
